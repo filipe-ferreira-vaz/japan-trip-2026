@@ -1,7 +1,7 @@
 ---
 title: Osaka
 ---
-# PLACES TO VISIT
+# PLACES TO VISIT ⛩️
 - **JoJo Ramen Restaurant** 🍜 — [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196)
 	- Price range: **[€5.5-€11]** 
 	- Long lines, better to go early
@@ -41,19 +41,22 @@ title: Osaka
 
 ---
 
-# RESTAURANTS
+# RESTAURANTS 🍜
 - **Maruhana Shinsaibashi** — [Location 📌](https://maps.app.goo.gl/5nLUg782Z4Cwnk7J6) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27151063/)
-	- Price range: **[€16.8-€110.5]**
 	- All-you-can-eat pork shabu-shabu hot pot **[€16.8]**
 	- All-you-can-eat beef and pork shabu-shabu hot pot **[€22.3]**
 	- All-you-can-drink **[€5.6]**
-- **Sumibi Yakitori to Hitokuchi Gyoza TORA Tori YA Namba sennichimae ten** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27149612/)
-  - All-you-can-drink [8.5eur]
-  - Early bird course all-you-can-drink [20eur]
-- **Sushi Washoku Kouroan Nanba** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27130348/)
-  - Lunch [11-17eur]
-- **Fukutarou Honten** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27002665/)
-  - Teppanyaki, Okonomiyaki. Lunch [5,5-11eur]
+- **Sumibi Yakitori to Hitokuchi Gyoza TORA Tori YA Namba sennichimae ten** - [Location 📌](https://maps.app.goo.gl/vQ3y68FaEJrVBPtQ7) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27149612/)
+	- Grilled chicken bento (lunch) **[€9.2]**
+	- All-you-can-drink 10+ dishes **[€25.1-€30.7]**
+	- All-you-can-drink **[€8.4]**
+	- "Early bird" All-you-can-drink 9 dishes (weekdays, 16:00-17:00) **[€19.5]**
+- **Sushi Washoku Kouroan Nanba** - [Location 📌](https://maps.app.goo.gl/xM8HHmerbJ4LtuzWA) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27130348/)
+	- Main dish and rice dish hanakago (lunch, weekdays) **[€15.6]**
+	- Wagyu and Maitake Butter Clay Pot Rice - Egg Yolk Hitsumabushi (lunch, weekdays) **[€13.9]**
+	- Edomae Sushi Lunch - Edomae Sushi & Seasonal Fish Golden Dashi Hot Pot (lunch, weekdays) **[€16.7]**
+- **Fukutarou Honten** - [Location 📌](https://maps.app.goo.gl/8fVM6iW6q5Bkp7SY8) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27002665/)
+	- Triple okonomiyaki **[€8.8]**
 - **CAFE ANNON Namba** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27101706/)
   - Sweets cafe [5,5-11eur]
 - **Menya Joroku Nanba ten** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27084754/)
