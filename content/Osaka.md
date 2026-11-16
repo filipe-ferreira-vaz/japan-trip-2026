@@ -32,15 +32,13 @@ title: Osaka
 	- Popular market street for seafood, produce and more
 - **Tenma** ⛩️🛍️🎮 — [Location 📌](https://maps.app.goo.gl/CoyuLBETPV8DcqWz5) [Info 🌐](https://www.japan-guide.com/e/e4024.html)
 	- District known for its shrine and shopping arcade
-- **==Himeji Castle==** 🏯 — [Location 📌](https://maps.app.goo.gl/HopsiSpNJ7RS7Vzj9) [Info 🌐](https://www.japan-guide.com/e/e3501.html)
+- **Himeji Castle** 🏯 — [Location 📌](https://maps.app.goo.gl/HopsiSpNJ7RS7Vzj9) [Info 🌐](https://www.japan-guide.com/e/e3501.html)
 	- Japan's best preserved feudal castle
 	- Entrance: **[€14.5]** (Total)
 	- Purchase e-ticket in advance to skip lines
 	- Hours: **[9:00-17:00]**
 	- 1h away from Osaka
-
 ---
-
 # RESTAURANTS 🍜
 - **Maruhana Shinsaibashi** — [Location 📌](https://maps.app.goo.gl/5nLUg782Z4Cwnk7J6) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27151063/)
 	- All-you-can-eat pork shabu-shabu hot pot **[€16.8]**
@@ -56,19 +54,12 @@ title: Osaka
 	- Wagyu and Maitake Butter Clay Pot Rice - Egg Yolk Hitsumabushi (lunch, weekdays) **[€13.9]**
 	- Edomae Sushi Lunch - Edomae Sushi & Seasonal Fish Golden Dashi Hot Pot (lunch, weekdays) **[€16.7]**
 - **Fukutarou Honten** - [Location 📌](https://maps.app.goo.gl/8fVM6iW6q5Bkp7SY8) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27002665/)
-	- Triple okonomiyaki **[€8.8]**
 - **CAFE ANNON Namba** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27101706/)
-  - Sweets cafe [5,5-11eur]
 - **Menya Joroku Nanba ten** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27084754/)
-  - Ramen [5,5eur]
 - **Chitose Udon** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27002763/)
-  - Udon, Soba [5,5eur]
 - **Nawira Menjiro** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27112089/)
-  - Ramen [5,5eur]
 - **Men no Youji** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27072765/)
-  - Ramen [5,5eur]
 - **Yuai Tei** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27079226/)
-  - Ramen [5,5-11eur]
 # TRADITIONAL FOOD [Info 🌐](https://www.japan-guide.com/e/e4022.html)
 - **Takoyaki** — grilled octopus
 - **Okonomiyaki** — pancake-like dish

@@ -1,39 +1,51 @@
 ---
 title: Kyoto
 ---
-
 # PLACES TO VISIT - KYOTO
-- **Nijo Castle (Nijojo)** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3918.html)
-  - Former Kyoto residence of the shogun
-- **Tofukuji Temple** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3930.html)
-  - Good for seeing autumn leaves. ~5eur entrance fee
-- **Arashiyama District** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3912.html)
-  - Good for seeing autumn leaves
-- **Kiyomizudera Temple** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3901.html)
-  - Good for seeing autumn leaves. ~2.5eur entrance
-- **Higashiyama District** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3959.html)
-  - Preserved historic district around Kiyomizudera. Small shops, cafes, restaurants.
-- **Ginkakuji (Silver Pavilion)** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3907.html)
-  - Beautiful temple buildings, a moss garden and a unique dry sand garden. ~5eur entrance fee
-- **Nazenji Temple** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3905.html)
-  - Zen temple with beautiful stone garden
-- **Fushimi Inari Shrine** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3915.html)
-  - Thousands of vermilion torii gates and mountain trails. Hike to the summit takes 2-3 hours
-- **Kinkakuji (Golden Pavilion)** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3908.html)
-  - Temple building covered in gold. ~2.5eur entrance fee
-- **Ninnaji Temple** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3929.html)
-  - Temple turned former imperial residence. ~4eur entrance fee
-- Hot springs (any affordable hot springs)
-- **KyoAni HQ** - [Location 📌](https://maps.app.goo.gl/5VkWJYQ9CrxucVsW6) [Info 🌐](#)
-- **Toyosato Elementary School (K-On School)** - [Location 📌](https://maps.app.goo.gl/tKfQAmzh2kDSudeA7) [Info 🌐](#)
-
-- **Unknown** - [Location 📌](#) [Info 🌐](https://www.japan-guide.com/e/e3963.html)
-
+- **Nijo Castle (Nijojo)** - [Location 📌](https://maps.app.goo.gl/2hrMahgVppAZm4pi9) [Info 🌐](https://www.japan-guide.com/e/e3918.html)
+	- Entrance: [**€7.4**]
+	- Hours: [**8:45-17:00**] (last entry at 16:00)
+	- Former Kyoto residence of the shogun
+- **Tofukuji Temple** - [Location 📌](https://maps.app.goo.gl/YW26GKPGfMB2XjgF8) [Info 🌐](https://www.japan-guide.com/e/e3930.html)
+	- Entrance: [**€5.7**]
+	- Hours: [**8:30-16:30**] (last entry at 16:00)
+	- Good for seeing autumn leaves
+- **Arashiyama District** - [Location 📌](https://maps.app.goo.gl/LNor59A1H4s71BxcA) [Info 🌐](https://www.japan-guide.com/e/e3912.html)
+	- Good for seeing autumn leaves
+- **Kiyomizudera Temple** - [Location 📌](https://maps.app.goo.gl/tJLmgy3EFJbU32Po6) [Info 🌐](https://www.japan-guide.com/e/e3901.html)
+	- Entrance: [**€2.85**]
+	- Hours: [**6:00-18:00**] 
+		- Until 21:30 during special evening illuminations (Nov 21-30)
+	- Good for seeing autumn leaves
+- **Higashiyama District** - [Location 📌](https://maps.app.goo.gl/K9RnrzPdWPaFm15V8) [Info 🌐](https://www.japan-guide.com/e/e3959.html)
+	- Preserved historic district around Kiyomizudera. Small shops, cafes, restaurants.
+- **Ginkakuji (Silver Pavilion)** - [Location 📌](https://maps.app.goo.gl/esxJRS6FngLx9yYF6) [Info 🌐](https://www.japan-guide.com/e/e3907.html)
+	- Entrance: [**€5.7**]
+	- Hours: [**8:30-17:00**]
+	- Beautiful temple buildings, a moss garden and a unique dry sand garden
+- **Nazenji Temple** - [Location 📌](https://maps.app.goo.gl/N7jQvszzSNAqpHH48) [Info 🌐](https://www.japan-guide.com/e/e3905.html)
+	- Entrance: [**€3.4**]
+	- Hours: [**8:40-17:00**] (last entry at 16:40)
+	- Zen temple with beautiful stone garden
+- **Fushimi Inari Shrine** - [Location 📌](https://maps.app.goo.gl/jgFNqpHiKZkh3csn8) [Info 🌐](https://www.japan-guide.com/e/e3915.html)
+	- Thousands of vermilion torii gates and mountain trails. Hike to the summit takes 2-3 hours
+- **Kinkakuji (Golden Pavilion)** - [Location 📌](https://maps.app.goo.gl/XgKBo5WjhafZa4zv7) [Info 🌐](https://www.japan-guide.com/e/e3908.html)
+	- Entrance: [**€2.85**]
+	- Hours: [**9:00-17:00**]
+	- Temple building covered in gold
+- **Ninnaji Temple** - [Location 📌](https://maps.app.goo.gl/ionzy5vStmST9KU89) [Info 🌐](https://www.japan-guide.com/e/e3929.html)
+	- Entrance: [**€4.5**]
+	- Hours: [**9:00-17:00**] (last entry at 16:30)
+	- Temple turned former imperial residence
+- ==Hot springs (any affordable hot springs)==
+- **KyoAni HQ** - [Location 📌](https://maps.app.goo.gl/5VkWJYQ9CrxucVsW6)
+- **Toyosato Elementary School (K-On School)** - [Location 📌](https://maps.app.goo.gl/tKfQAmzh2kDSudeA7)]
+---
 # RESTAURANTS - KYOTO
-
-## TRADITIONAL - KYOTO
-- **Kaiseki Ryori** - elaborate dining style developed by aristocrats, typically enjoyed at ryokan, but can also be enjoyed at restaurants. Expensive (30-55eur)
-- **Shojin Ryori** - strictly vegetarian dishes developed from buddhist monk
-  - **Yudofu** - popular dish widely served at tofu restaurants. 8-11eur
-- **Obanzai Ryori** - traditional home-style cooking, multiple small dishes. 11-16eur
-- **Kawayuka/Kawadoko** - summer pasttime of dining outdoors on temporary platforms built over flowing water
+- 
+## TRADITIONAL FOOD — [Food Guide](https://www.japan-guide.com/e/e3963.html)
+- **Kaiseki Ryori** — elaborate dining style developed by aristocrats, typically enjoyed at ryokan, but can also be enjoyed at restaurants. Expensive (30-55eur)
+- **Shojin Ryori** — strictly vegetarian dishes developed from buddhist monk
+- **Yudofu** — popular dish widely served at tofu restaurants. 8-11eur
+- **Obanzai Ryori** — traditional home-style cooking, multiple small dishes. 11-16eur
+- **Kawayuka/Kawadoko** — summer pasttime of dining outdoors on temporary platforms built over flowing water

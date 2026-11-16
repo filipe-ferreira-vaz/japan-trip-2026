@@ -1,0 +1,2 @@
+- [Buying a V60 in Japan](https://www.reddit.com/r/pourover/s/qxYu3w5sXm)
+- 
