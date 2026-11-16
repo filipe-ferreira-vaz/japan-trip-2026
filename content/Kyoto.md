@@ -1,7 +1,7 @@
 ---
 title: Kyoto
 ---
-# PLACES TO VISIT - KYOTO
+# PLACES TO VISIT ⛩️
 - **Nijo Castle (Nijojo)** - [Location 📌](https://maps.app.goo.gl/2hrMahgVppAZm4pi9) [Info 🌐](https://www.japan-guide.com/e/e3918.html)
 	- Entrance: [**€7.4**]
 	- Hours: [**8:45-17:00**] (last entry at 16:00)
@@ -41,9 +41,10 @@ title: Kyoto
 - **KyoAni HQ** - [Location 📌](https://maps.app.goo.gl/5VkWJYQ9CrxucVsW6)
 - **Toyosato Elementary School (K-On School)** - [Location 📌](https://maps.app.goo.gl/tKfQAmzh2kDSudeA7)]
 ---
-# RESTAURANTS - KYOTO
+# RESTAURANTS - KYOTO 🍜
 - 
-## TRADITIONAL FOOD — [Food Guide](https://www.japan-guide.com/e/e3963.html)
+---
+# TRADITIONAL FOOD — [Food Guide](https://www.japan-guide.com/e/e3963.html)
 - **Kaiseki Ryori** — elaborate dining style developed by aristocrats, typically enjoyed at ryokan, but can also be enjoyed at restaurants. Expensive (30-55eur)
 - **Shojin Ryori** — strictly vegetarian dishes developed from buddhist monk
 - **Yudofu** — popular dish widely served at tofu restaurants. 8-11eur

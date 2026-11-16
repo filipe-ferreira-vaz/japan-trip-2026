@@ -60,7 +60,8 @@ title: Osaka
 - **Nawira Menjiro** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27112089/)
 - **Men no Youji** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27072765/)
 - **Yuai Tei** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27079226/)
-# TRADITIONAL FOOD [Info 🌐](https://www.japan-guide.com/e/e4022.html)
+---
+# TRADITIONAL FOOD — [Food Guide](https://www.japan-guide.com/e/e4022.html)
 - **Takoyaki** — grilled octopus
 - **Okonomiyaki** — pancake-like dish
 - **Kushikatsu** — deep fried pieces of food on skewers
