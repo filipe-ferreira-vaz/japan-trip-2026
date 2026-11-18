@@ -39,7 +39,7 @@ title: Kyoto
 	- Temple turned former imperial residence
 - ==Hot springs (any affordable hot springs)==
 - **KyoAni HQ** - [Location 📌](https://maps.app.goo.gl/5VkWJYQ9CrxucVsW6)
-- **Toyosato Elementary School (K-On School)** - [Location 📌](https://maps.app.goo.gl/tKfQAmzh2kDSudeA7)]
+- **Toyosato Elementary School (K-On School)** - [Location 📌](https://maps.app.goo.gl/tKfQAmzh2kDSudeA7)
 ---
 # RESTAURANTS - KYOTO 🍜
 - 

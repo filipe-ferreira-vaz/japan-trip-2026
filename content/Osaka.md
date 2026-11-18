@@ -5,7 +5,6 @@ title: Osaka
 - **JoJo Ramen Restaurant** 🍜 — [Location 📌](https://maps.app.goo.gl/8fKj9RwMMbxuFp196)
 	- Price range: **[€5.5-€11]** 
 	- Long lines, better to go early
-	- *I'm fine with skipping this*
 - **Minami (Namba)** 🍜🛍️ — [Location 📌](https://maps.app.goo.gl/9EDnnShNdqWaddDo6) [Info 🌐](https://www.japan-guide.com/e/e4001.html)
 	- Abundant dining and shopping choices
 	- **Better to visit at night**
@@ -54,12 +53,12 @@ title: Osaka
 	- Wagyu and Maitake Butter Clay Pot Rice - Egg Yolk Hitsumabushi (lunch, weekdays) **[€13.9]**
 	- Edomae Sushi Lunch - Edomae Sushi & Seasonal Fish Golden Dashi Hot Pot (lunch, weekdays) **[€16.7]**
 - **Fukutarou Honten** - [Location 📌](https://maps.app.goo.gl/8fVM6iW6q5Bkp7SY8) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27002665/)
-- **CAFE ANNON Namba** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27101706/)
-- **Menya Joroku Nanba ten** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27084754/)
-- **Chitose Udon** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27002763/)
-- **Nawira Menjiro** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27112089/)
-- **Men no Youji** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27072765/)
-- **Yuai Tei** - [Location 📌](#) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27079226/)
+- **CAFE ANNON Namba** - [Location 📌](https://maps.app.goo.gl/tThdoZLPd29SfHxa7) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27101706/)
+- **Menya Joroku Nanba ten** - [Location 📌](https://maps.app.goo.gl/ZpFipGdyMjRtUYz17) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27084754/)
+- **Chitose Udon** - [Location 📌](https://maps.app.goo.gl/vr1qVqeUCDcuEcZe9) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27002763/)
+- **Nawira Menjiro** - [Location 📌](https://maps.app.goo.gl/wuazfVphLUsXt7jY6) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27112089/)
+- **Men no Youji** - [Location 📌](https://maps.app.goo.gl/4ipFpSaKg9nULy7z8) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27072765/)
+- **Yuai Tei** - [Location 📌](https://maps.app.goo.gl/VukgKSAAMFkZV1K47) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27079226/)
 ---
 # TRADITIONAL FOOD — [Food Guide](https://www.japan-guide.com/e/e4022.html)
 - **Takoyaki** — grilled octopus
