@@ -49,15 +49,13 @@ title: Tokyo
 - **Tsukiji Outer Market** - [Location 📌](https://maps.app.goo.gl/tR612eLqguEMjdfG6) [Info 🌐](https://www.japan-guide.com/e/e3021.html)
 	- Also recommended to me
 - **Soulsborne Merch Store** - [Location 📌](https://maps.app.goo.gl/ymHfaUAzBnoacuVT6)
----
-## AROUND TOKYO
 - **Yokohama** - [Location 📌](https://maps.app.goo.gl/Kv8hnncdJ2kEcrGD6) [Info 🌐](https://www.japan-guide.com/e/e2156.html)
 	- Japan's second largest city
 ---
-# RESTAURANTS 🍜
+# RESTAURANTS 🥢
 - **Sushiro Ikeburo East** - [Location 📌](https://maps.app.goo.gl/qkPpY77Zmo6DcEtZ6)
 ---
-# TRADITIONAL FOOD — [Food Guide](https://www.japan-guide.com/e/e3075.html)
+# TRADITIONAL FOOD 🍜 — [Food Guide](https://www.japan-guide.com/e/e3075.html)
 - **Nigiri-zushi** - just regular nigiri. Originated as a fast-food dish in Tokyo
 - **Tempura** - deep fried seafood. Recommended to visit a specialized tempura restaurant (tempura-ya)
 - **Soba** - buckwheat noodles

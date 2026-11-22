@@ -1,3 +1,6 @@
+---
+title: Bureaucratic Stuff
+---
 # TO DO
 - https://services.digital.go.jp/en/visit-japan-web/ - digitally submit immigration and customs-related information ahead of arrival
 # IMPORTANT SHIT

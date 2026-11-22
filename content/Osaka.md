@@ -38,7 +38,7 @@ title: Osaka
 	- Hours: **[9:00-17:00]**
 	- 1h away from Osaka
 ---
-# RESTAURANTS 🍜
+# RESTAURANTS 🥢
 - **Maruhana Shinsaibashi** — [Location 📌](https://maps.app.goo.gl/5nLUg782Z4Cwnk7J6) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27151063/)
 	- All-you-can-eat pork shabu-shabu hot pot **[€16.8]**
 	- All-you-can-eat beef and pork shabu-shabu hot pot **[€22.3]**
@@ -60,7 +60,7 @@ title: Osaka
 - **Men no Youji** - [Location 📌](https://maps.app.goo.gl/4ipFpSaKg9nULy7z8) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27072765/)
 - **Yuai Tei** - [Location 📌](https://maps.app.goo.gl/VukgKSAAMFkZV1K47) [Info 🌐](https://tabelog.com/en/osaka/A2701/A270202/27079226/)
 ---
-# TRADITIONAL FOOD — [Food Guide](https://www.japan-guide.com/e/e4022.html)
+# TRADITIONAL FOOD 🍜 — [Food Guide](https://www.japan-guide.com/e/e4022.html)
 - **Takoyaki** — grilled octopus
 - **Okonomiyaki** — pancake-like dish
 - **Kushikatsu** — deep fried pieces of food on skewers

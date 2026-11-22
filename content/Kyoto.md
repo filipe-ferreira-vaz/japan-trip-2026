@@ -37,14 +37,14 @@ title: Kyoto
 	- Entrance: [**€4.5**]
 	- Hours: [**9:00-17:00**] (last entry at 16:30)
 	- Temple turned former imperial residence
-- ==Hot springs (any affordable hot springs)==
+- [[Kyoto Hot Springs]]
 - **KyoAni HQ** - [Location 📌](https://maps.app.goo.gl/5VkWJYQ9CrxucVsW6)
 - **Toyosato Elementary School (K-On School)** - [Location 📌](https://maps.app.goo.gl/tKfQAmzh2kDSudeA7)
 ---
-# RESTAURANTS - KYOTO 🍜
+# RESTAURANTS 🥢
 - 
 ---
-# TRADITIONAL FOOD — [Food Guide](https://www.japan-guide.com/e/e3963.html)
+# TRADITIONAL FOOD 🍜 — [Food Guide](https://www.japan-guide.com/e/e3963.html)
 - **Kaiseki Ryori** — elaborate dining style developed by aristocrats, typically enjoyed at ryokan, but can also be enjoyed at restaurants. Expensive (30-55eur)
 - **Shojin Ryori** — strictly vegetarian dishes developed from buddhist monk
 - **Yudofu** — popular dish widely served at tofu restaurants. 8-11eur
